@@ -57,7 +57,7 @@
 
 </a>
 <a href="https://github.com/rahulsonone1234/Parallel-Programming">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulsonone1234&repo=VelocityX&theme=light" />
+ <img align="center" src="https://github.com/rahulsonone1234/Parallel-Programming" />
 </a>
 
 <div align="center">
