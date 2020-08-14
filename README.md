@@ -32,9 +32,9 @@
 - ⚡ Fun fact: I spend almost 12 hours learning new things everyday.
 
 [![Twitter: @RahulSO75888532](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/RahulSo75888532)
-[![Linkedin: rahulsonone](https://img.shields.io/badge/-rahul-sonone-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-sonone/)](https://www.linkedin.com/in/rahul-sonone/)
+[![Linkedin: rahulsonone](https://img.shields.io/badge/rahul-sonone-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-sonone/)](https://www.linkedin.com/in/rahul-sonone/)
 [![GitHub rahulsonone](https://img.shields.io/github/followers/rahulsonone1234?label=follow&style=social)](https://github.com/rahulsonone1234)
-[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://rahulsonone.me)
+[![website](https://img.shields.io/badge/PortfolioWebsite-rahulsonone.me-2648ff?style=flat-square&logo=google-chrome)](https://rahulsonone.me)
 
 
 **Languages and Tools:**  
@@ -50,7 +50,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/rahulsonone1234">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulsonone1234&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </a>
 <a href="https://github.com/rahulsonone1234/Traffic-Sign-Recognition">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulsonone1234&repo=FlutterExampleApps&theme=light" />
