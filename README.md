@@ -50,16 +50,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/rahulsonone1234">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulsonone1234&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulsonone1234&show_icons=true&theme=light&line_height=27" alt="Rahul's github stats"/>
 </a>
 <a href="https://github.com/rahulsonone1234/Traffic-Sign-Recognition">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulsonone1234&repo=FlutterExampleApps&theme=light" />
-
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulsonone1234&repo=Traffic-Sign-Recognition&theme=light" />
 </a>
 <a href="https://github.com/rahulsonone1234/Parallel-Programming">
- <img align="center" src="https://github.com/rahulsonone1234/Parallel-Programming" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulsonone1234&repo=Parallel-Programming&theme=light" />
 </a>
-
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
