@@ -23,7 +23,7 @@
 
 
 - 🔭 I’m currently working on [Myself](https://rahulsonone.me).
-- 🌱 I’m currently learning Swift.
+- 🌱 I’m currently learning.
 - 👯 I’m looking to collaborate on [Youtube]().
 - 🤔 I’m looking for help so that i would improve.
 - 💬 Ask me about things i know or any tech related stuff.
