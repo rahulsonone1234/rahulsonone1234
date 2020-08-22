@@ -24,10 +24,10 @@
 
 - 🔭 I’m currently working on [Myself](https://rahulsonone.me).
 - 🌱 I’m currently learning.
-- 👯 I’m looking to collaborate on [Youtube](https://www.linkedin.com/in/rahul-sonone/).
+- 👯 I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/rahul-sonone/).
 - 🤔 I’m looking for help so that i would improve.
 - 💬 Ask me about things i know or any tech related stuff.
-- 📫 How to reach me: [LinkedIn - /rahul-sonone/](h)
+- 📫 How to reach me: [LinkedIn - /rahul-sonone/](https://www.linkedin.com/in/rahul-sonone/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours learning new things everyday.
 
