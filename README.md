@@ -1,4 +1,4 @@
-## Hola, I'm [Rahul Sonone!](https://www.rahulsonone.me) 👋
+## Hey !, I'm [Rahul Sonone!](https://www.rahulsonone.me) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulsonone1234&label=Views&color=blue&style=plastic" alt="Rahul" /> </p>
 
