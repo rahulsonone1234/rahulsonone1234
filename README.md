@@ -30,7 +30,7 @@
 - 📫 How to reach me: [LinkedIn - /rahul-sonone/](https://www.linkedin.com/in/rahul-sonone/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours learning new things everyday.
-- [![Rahul Sonone's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/rahulsonone1234)
+
 
 [![Twitter: @RahulSO75888532](https://img.shields.io/twitter/follow/RahulSO75888532?style=social)](https://twitter.com/RahulSo75888532)
 [![Linkedin: rahulsonone](https://img.shields.io/badge/rahul-sonone-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-sonone/)](https://www.linkedin.com/in/rahul-sonone/)
